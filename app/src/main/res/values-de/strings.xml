@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nutribalance</string>
+    <string name="general_button_store">Speichern</string>
+    <string name="general_label_kcal">kcal</string>
+    <string name="navigation_home">Startseite</string>
+    <string name="navigation_new_record">Aufzeichnen</string>
+    <string name="navigation_config">Einstellungen</string>
+    <string name="validation_all_fields_required">Alle Felder sind erforderlich</string>
+    <string name="validation_kcal_range">Kcal muss zwischen 1 und 9999 liegen</string>
+    <string name="home_screen_title_balance">Aktuelles Gleichgewicht</string>
+    <string name="home_screen_description_balance">Gesamtdifferenz zwischen verbrauchten und verbrannten Kalorien</string>
+    <string name="home_screen_title_last_records">Letzte Einträge</string>
+    <string name="home_screen_button_see_all_records">Alle meine Einträge anzeigen</string>
+    <string name="record_calories_screen_input_intake_calorie">Wie viele Kalorien hatten die Lebensmittel?</string>
+    <string name="record_calories_screen_input_performing_exercise_calorie">Wie viele Kalorien haben Sie verbrannt?</string>
+    <string name="record_calories_screen_input_intake_calorie_description">Was haben Sie gegessen?</string>
+    <string name="record_calories_screen_input_performing_exercise_calorie_description">Welche Übungen haben Sie gemacht?</string>
+    <string name="record_calories_screen_title">Neuer Eintrag</string>
+    <string name="record_calories_screen_description">Einträge können später nicht gelöscht oder bearbeitet werden. Stellen Sie sicher, dass die eingetragenen Informationen korrekt sind.</string>
+    <string name="record_calories_screen_subtitle_about_record">Welche Übungen haben Sie gemacht?</string>
+    <string name="record_calories_screen_subtitle_record_description">Eintragbeschreibung</string>
+    <string name="record_calories_screen_label_record_type_intake">Nahrungsaufnahme</string>
+    <string name="record_calories_screen_label_record_type_performing_exercise">Durchführung von körperlicher Aktivität</string>
+    <string name="list_records_screen_title">Meine Einträge</string>
+    <string name="list_records_screen_label_empty_records">Sie haben noch keine Einträge gemacht</string>
+</resources>

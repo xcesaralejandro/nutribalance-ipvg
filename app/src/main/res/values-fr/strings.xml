@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nutribalance</string>
+    <string name="general_button_store">Enregistrer</string>
+    <string name="general_label_kcal">kcal</string>
+    <string name="navigation_home">Accueil</string>
+    <string name="navigation_new_record">Enregistrer</string>
+    <string name="navigation_config">Paramètres</string>
+    <string name="validation_all_fields_required">Tous les champs sont obligatoires</string>
+    <string name="validation_kcal_range">Les kcal doivent être comprises entre 1 et 9999</string>
+    <string name="home_screen_title_balance">Solde actuel</string>
+    <string name="home_screen_description_balance">Différence totale entre les calories consommées et brûlées</string>
+    <string name="home_screen_title_last_records">Derniers enregistrements</string>
+    <string name="home_screen_button_see_all_records">Voir tous mes enregistrements</string>
+    <string name="record_calories_screen_input_intake_calorie">Combien de calories les aliments avaient-ils ?</string>
+    <string name="record_calories_screen_input_performing_exercise_calorie">Combien de calories avez-vous brûlées ?</string>
+    <string name="record_calories_screen_input_intake_calorie_description">Qu\'avez-vous mangé ?</string>
+    <string name="record_calories_screen_input_performing_exercise_calorie_description">Quels exercices avez-vous réalisés ?</string>
+    <string name="record_calories_screen_title">Nouvel enregistrement</string>
+    <string name="record_calories_screen_description">Les enregistrements ne peuvent pas être supprimés ou modifiés ultérieurement. Assurez-vous que les informations enregistrées sont correctes.</string>
+    <string name="record_calories_screen_subtitle_about_record">Quels exercices avez-vous réalisés ?</string>
+    <string name="record_calories_screen_subtitle_record_description">Description de l\'enregistrement</string>
+    <string name="record_calories_screen_label_record_type_intake">Consommation alimentaire</string>
+    <string name="record_calories_screen_label_record_type_performing_exercise">Réalisations d\'activité physique</string>
+    <string name="list_records_screen_title">Mes enregistrements</string>
+    <string name="list_records_screen_label_empty_records">Vous n\'avez encore réalisé aucun enregistrement</string>
+</resources>

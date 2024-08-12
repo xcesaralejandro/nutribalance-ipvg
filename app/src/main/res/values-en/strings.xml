@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nutribalance</string>
+    <string name="general_button_store">Save</string>
+    <string name="general_label_kcal">kcal</string>
+    <string name="navigation_home">Home</string>
+    <string name="navigation_new_record">New entry</string>
+    <string name="navigation_config">Config</string>
+    <string name="validation_all_fields_required">All fields are required</string>
+    <string name="validation_kcal_range">kcal should be a value between 1 and 9999</string>
+    <string name="home_screen_title_balance">Current balance</string>
+    <string name="home_screen_description_balance">It\'s the total difference between calories consumed and burned</string>
+    <string name="home_screen_title_last_records">Latest entries</string>
+    <string name="home_screen_button_see_all_records">View all entries</string>
+    <string name="record_calories_screen_input_intake_calorie">How many calories did the food have?</string>
+    <string name="record_calories_screen_input_performing_exercise_calorie">How many calories did you burn?</string>
+    <string name="record_calories_screen_input_intake_calorie_description">What have you eaten?</string>
+    <string name="record_calories_screen_input_performing_exercise_calorie_description">What exercises have you done?</string>
+    <string name="record_calories_screen_title">New entry</string>
+    <string name="record_calories_screen_description">Entries cannot be deleted or edited later. Make sure the recorded information is correct.</string>
+    <string name="record_calories_screen_subtitle_about_record">What exercises have you done?</string>
+    <string name="record_calories_screen_subtitle_record_description">Entry description</string>
+    <string name="record_calories_screen_label_record_type_intake">Food consumption</string>
+    <string name="record_calories_screen_label_record_type_performing_exercise">Physical activity log</string>
+    <string name="list_records_screen_title">My Entries</string>
+    <string name="list_records_screen_label_empty_records">You haven\'t logged any entries yet</string>
+</resources>

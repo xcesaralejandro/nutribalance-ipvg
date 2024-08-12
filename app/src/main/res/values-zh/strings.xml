@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nutribalance</string>
+    <string name="general_button_store">保存</string>
+    <string name="general_label_kcal">千卡</string>
+    <string name="navigation_home">主页</string>
+    <string name="navigation_new_record">记录</string>
+    <string name="navigation_config">设置</string>
+    <string name="validation_all_fields_required">所有字段都是必需的</string>
+    <string name="validation_kcal_range">千卡值必须在1到9999之间</string>
+    <string name="home_screen_title_balance">当前余额</string>
+    <string name="home_screen_description_balance">消耗的卡路里与消耗的总差异</string>
+    <string name="home_screen_title_last_records">最近记录</string>
+    <string name="home_screen_button_see_all_records">查看所有记录</string>
+    <string name="record_calories_screen_input_intake_calorie">食物摄入的卡路里是多少？</string>
+    <string name="record_calories_screen_input_performing_exercise_calorie">你燃烧了多少卡路里？</string>
+    <string name="record_calories_screen_input_intake_calorie_description">你吃了什么？</string>
+    <string name="record_calories_screen_input_performing_exercise_calorie_description">你做了什么运动？</string>
+    <string name="record_calories_screen_title">新记录</string>
+    <string name="record_calories_screen_description">记录将无法删除或编辑。请确保记录的信息准确无误。</string>
+    <string name="record_calories_screen_subtitle_about_record">你做了什么运动？</string>
+    <string name="record_calories_screen_subtitle_record_description">记录描述</string>
+    <string name="record_calories_screen_label_record_type_intake">食物摄入</string>
+    <string name="record_calories_screen_label_record_type_performing_exercise">运动执行</string>
+    <string name="list_records_screen_title">我的记录</string>
+    <string name="list_records_screen_label_empty_records">你还没有任何记录</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nutribalance</string>
+    <string name="general_button_store">Сохранить</string>
+    <string name="general_label_kcal">ккал</string>
+    <string name="navigation_home">Главная</string>
+    <string name="navigation_new_record">Записать</string>
+    <string name="navigation_config">Настройки</string>
+    <string name="validation_all_fields_required">Все поля обязательны для заполнения</string>
+    <string name="validation_kcal_range">Ккал должны быть от 1 до 9999</string>
+    <string name="home_screen_title_balance">Текущий баланс</string>
+    <string name="home_screen_description_balance">Общая разница между потребляемыми и сожженными калориями</string>
+    <string name="home_screen_title_last_records">Последние записи</string>
+    <string name="home_screen_button_see_all_records">Просмотреть все мои записи</string>
+    <string name="record_calories_screen_input_intake_calorie">Сколько калорий было в продуктах?</string>
+    <string name="record_calories_screen_input_performing_exercise_calorie">Сколько калорий вы сожгли?</string>
+    <string name="record_calories_screen_input_intake_calorie_description">Что вы ели?</string>
+    <string name="record_calories_screen_input_performing_exercise_calorie_description">Какие упражнения вы делали?</string>
+    <string name="record_calories_screen_title">Новая запись</string>
+    <string name="record_calories_screen_description">Записи не могут быть удалены или изменены позже. Убедитесь, что введенная информация корректна.</string>
+    <string name="record_calories_screen_subtitle_about_record">Какие упражнения вы делали?</string>
+    <string name="record_calories_screen_subtitle_record_description">Описание записи</string>
+    <string name="record_calories_screen_label_record_type_intake">Потребление продуктов</string>
+    <string name="record_calories_screen_label_record_type_performing_exercise">Физическая активность</string>
+    <string name="list_records_screen_title">Мои записи</string>
+    <string name="list_records_screen_label_empty_records">Вы еще не делали никаких записей</string>
+</resources>

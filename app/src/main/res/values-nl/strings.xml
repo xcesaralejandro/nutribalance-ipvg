@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nutribalance</string>
+    <string name="general_button_store">Opslaan</string>
+    <string name="general_label_kcal">kcal</string>
+    <string name="navigation_home">Home</string>
+    <string name="navigation_new_record">Registreren</string>
+    <string name="navigation_config">Instellingen</string>
+    <string name="validation_all_fields_required">Alle velden zijn verplicht</string>
+    <string name="validation_kcal_range">Kcal moet een waarde zijn tussen 1 en 9999</string>
+    <string name="home_screen_title_balance">Huidige balans</string>
+    <string name="home_screen_description_balance">Het totale verschil tussen geconsumeerde en verbrande calorieën</string>
+    <string name="home_screen_title_last_records">Laatste records</string>
+    <string name="home_screen_button_see_all_records">Bekijk al mijn records</string>
+    <string name="record_calories_screen_input_intake_calorie">Hoeveel calorieën had het voedsel?</string>
+    <string name="record_calories_screen_input_performing_exercise_calorie">Hoeveel calorieën heb je verbrand?</string>
+    <string name="record_calories_screen_input_intake_calorie_description">Wat heb je gegeten?</string>
+    <string name="record_calories_screen_input_performing_exercise_calorie_description">Welke oefeningen heb je gedaan?</string>
+    <string name="record_calories_screen_title">Nieuwe registratie</string>
+    <string name="record_calories_screen_description">Records kunnen later niet worden verwijderd of bewerkt. Zorg ervoor dat de geregistreerde informatie correct is.</string>
+    <string name="record_calories_screen_subtitle_about_record">Welke oefeningen heb je gedaan?</string>
+    <string name="record_calories_screen_subtitle_record_description">Beschrijving van de registratie</string>
+    <string name="record_calories_screen_label_record_type_intake">Voedselconsumptie</string>
+    <string name="record_calories_screen_label_record_type_performing_exercise">Uitvoeren van lichamelijke activiteit</string>
+    <string name="list_records_screen_title">Mijn registraties</string>
+    <string name="list_records_screen_label_empty_records">Je hebt nog geen registraties gedaan</string>
+</resources>

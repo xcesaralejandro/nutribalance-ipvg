@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nutribalance</string>
+    <string name="general_button_store">حفظ</string>
+    <string name="general_label_kcal">سعرة حرارية</string>
+    <string name="navigation_home">الصفحة الرئيسية</string>
+    <string name="navigation_new_record">تسجيل</string>
+    <string name="navigation_config">الإعدادات</string>
+    <string name="validation_all_fields_required">جميع الحقول مطلوبة</string>
+    <string name="validation_kcal_range">يجب أن تكون السعرات الحرارية قيمة بين 1 و 9999</string>
+    <string name="home_screen_title_balance">الرصيد الحالي</string>
+    <string name="home_screen_description_balance">الفرق الكلي بين السعرات الحرارية المستهلكة والمحروقة</string>
+    <string name="home_screen_title_last_records">آخر السجلات</string>
+    <string name="home_screen_button_see_all_records">عرض جميع سجلاتي</string>
+    <string name="record_calories_screen_input_intake_calorie">كم كانت السعرات الحرارية للأطعمة؟</string>
+    <string name="record_calories_screen_input_performing_exercise_calorie">كم كانت السعرات الحرارية التي حرقتها؟</string>
+    <string name="record_calories_screen_input_intake_calorie_description">ماذا أكلت؟</string>
+    <string name="record_calories_screen_input_performing_exercise_calorie_description">ما هي التمارين التي قمت بها؟</string>
+    <string name="record_calories_screen_title">سجل جديد</string>
+    <string name="record_calories_screen_description">لا يمكن حذف أو تعديل السجلات لاحقًا. تأكد من أن المعلومات المسجلة صحيحة.</string>
+    <string name="record_calories_screen_subtitle_about_record">ما هي التمارين التي قمت بها؟</string>
+    <string name="record_calories_screen_subtitle_record_description">وصف السجل</string>
+    <string name="record_calories_screen_label_record_type_intake">استهلاك الطعام</string>
+    <string name="record_calories_screen_label_record_type_performing_exercise">ممارسة النشاط البدني</string>
+    <string name="list_records_screen_title">سجلاتي</string>
+    <string name="list_records_screen_label_empty_records">لم تقم بأي سجلات بعد</string>
+</resources>

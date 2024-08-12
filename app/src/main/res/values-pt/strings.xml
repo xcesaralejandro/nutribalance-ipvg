@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nutribalance</string>
+    <string name="general_button_store">Salvar</string>
+    <string name="general_label_kcal">kcal</string>
+    <string name="navigation_home">Início</string>
+    <string name="navigation_new_record">Registrar</string>
+    <string name="navigation_config">Configurações</string>
+    <string name="validation_all_fields_required">Todos os campos são obrigatórios</string>
+    <string name="validation_kcal_range">As kcal devem estar entre 1 e 9999</string>
+    <string name="home_screen_title_balance">Saldo atual</string>
+    <string name="home_screen_description_balance">Diferença total entre calorias consumidas e queimadas</string>
+    <string name="home_screen_title_last_records">Últimos registros</string>
+    <string name="home_screen_button_see_all_records">Ver todos os meus registros</string>
+    <string name="record_calories_screen_input_intake_calorie">Quantas calorias tinham os alimentos?</string>
+    <string name="record_calories_screen_input_performing_exercise_calorie">Quantas calorias você queimou?</string>
+    <string name="record_calories_screen_input_intake_calorie_description">O que você comeu?</string>
+    <string name="record_calories_screen_input_performing_exercise_calorie_description">Que exercícios você fez?</string>
+    <string name="record_calories_screen_title">Novo registro</string>
+    <string name="record_calories_screen_description">Os registros não podem ser excluídos ou editados posteriormente. Certifique-se de que as informações registradas estão corretas.</string>
+    <string name="record_calories_screen_subtitle_about_record">Que exercícios você fez?</string>
+    <string name="record_calories_screen_subtitle_record_description">Descrição do registro</string>
+    <string name="record_calories_screen_label_record_type_intake">Consumo de alimentos</string>
+    <string name="record_calories_screen_label_record_type_performing_exercise">Realização de atividade física</string>
+    <string name="list_records_screen_title">Meus registros</string>
+    <string name="list_records_screen_label_empty_records">Você ainda não fez nenhum registro</string>
+</resources>

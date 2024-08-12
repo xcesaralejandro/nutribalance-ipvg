@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nutribalance</string>
+    <string name="general_button_store">저장</string>
+    <string name="general_label_kcal">kcal</string>
+    <string name="navigation_home">홈</string>
+    <string name="navigation_new_record">기록</string>
+    <string name="navigation_config">설정</string>
+    <string name="validation_all_fields_required">모든 필드는 필수입니다</string>
+    <string name="validation_kcal_range">Kcal 값은 1에서 9999 사이여야 합니다</string>
+    <string name="home_screen_title_balance">현재 잔액</string>
+    <string name="home_screen_description_balance">섭취한 칼로리와 소비한 총 차이</string>
+    <string name="home_screen_title_last_records">최근 기록</string>
+    <string name="home_screen_button_see_all_records">모든 기록 보기</string>
+    <string name="record_calories_screen_input_intake_calorie">음식의 칼로리는 얼마입니까?</string>
+    <string name="record_calories_screen_input_performing_exercise_calorie">소모한 칼로리는 얼마입니까?</string>
+    <string name="record_calories_screen_input_intake_calorie_description">무엇을 먹었습니까?</string>
+    <string name="record_calories_screen_input_performing_exercise_calorie_description">어떤 운동을 했습니까?</string>
+    <string name="record_calories_screen_title">새로운 기록</string>
+    <string name="record_calories_screen_description">기록은 나중에 삭제하거나 수정할 수 없습니다. 등록된 정보가 정확한지 확인하세요.</string>
+    <string name="record_calories_screen_subtitle_about_record">어떤 운동을 했습니까?</string>
+    <string name="record_calories_screen_subtitle_record_description">기록 설명</string>
+    <string name="record_calories_screen_label_record_type_intake">식품 소비</string>
+    <string name="record_calories_screen_label_record_type_performing_exercise">신체 활동 수행</string>
+    <string name="list_records_screen_title">내 기록</string>
+    <string name="list_records_screen_label_empty_records">아직 기록이 없습니다</string>
+</resources>

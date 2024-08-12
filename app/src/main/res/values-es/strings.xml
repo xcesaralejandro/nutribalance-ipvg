@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nutribalance</string>
+    <string name="general_button_store">Guardar</string>
+    <string name="general_label_kcal">kcal</string>
+    <string name="navigation_home">Inicio</string>
+    <string name="navigation_new_record">Registrar</string>
+    <string name="navigation_config">Configuración</string>
+    <string name="validation_all_fields_required">Todos los campos son requeridos</string>
+    <string name="validation_kcal_range">Kcal debe ser un valor entre 1 \\- 9999</string>
+    <string name="home_screen_title_balance">Balance actual</string>
+    <string name="home_screen_description_balance">Es la diferencia total entre calorias consumidas y quemadas</string>
+    <string name="home_screen_title_last_records">Ultimos registros</string>
+    <string name="home_screen_button_see_all_records">Ver todos mis registros</string>
+    <string name="record_calories_screen_input_intake_calorie">¿Cuantas calorias tenian los alimentos?</string>
+    <string name="record_calories_screen_input_performing_exercise_calorie">¿Cuantas calorias quemaste?</string>
+    <string name="record_calories_screen_input_intake_calorie_description">¿Que haz comido?</string>
+    <string name="record_calories_screen_input_performing_exercise_calorie_description">¿Que ejercicios haz realizado?</string>
+    <string name="record_calories_screen_title">Nuevo registro</string>
+    <string name="record_calories_screen_description">Los registros no podrán ser eliminados o editados más tarde. Asegurate de que la información registrada es correcta.</string>
+    <string name="record_calories_screen_subtitle_about_record">¿Que ejercicios haz realizado?</string>
+    <string name="record_calories_screen_subtitle_record_description">Descripción del registro</string>
+    <string name="record_calories_screen_label_record_type_intake">Consumo de alimentos</string>
+    <string name="record_calories_screen_label_record_type_performing_exercise">Realización de Actividad fisica</string>
+    <string name="list_records_screen_title">Mis Registros</string>
+    <string name="list_records_screen_label_empty_records">Aún no haz realizado registros</string>
+</resources>
